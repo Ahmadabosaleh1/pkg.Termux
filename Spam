@@ -1,0 +1,14 @@
+git clone https://github.com/MSTechXSS/pkg.Termux
+
+3-ls
+
+4-cd pkg.Termux
+
+5-ls
+
+6-chmod +X *
+
+7-ls
+
+8-bash mstech.sh
+
